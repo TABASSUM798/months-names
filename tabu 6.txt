@@ -1,0 +1,13 @@
+months;names
+chitram-1
+visakham-2
+zestyam-3
+ashadam-4
+sravanam-5
+bhadhrapada-6
+aaswayujam-7
+karteekam-8
+margasira-9
+pusham-10
+magham-11
+phalgun-12
